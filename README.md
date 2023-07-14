@@ -15,5 +15,6 @@
 . parcel ./src/index.html
 
 ### Go to browser: http://localhost: 1234
-![]<img src="retaining_wall-myFirst/images/browser_cube.png"/>
+
+![browser_cube1](https://github.com/githubmave/ThreeJS_3D_Rotating_Cube/assets/8073738/06c96e2e-5474-416e-907e-032cb9fa0a12)
 

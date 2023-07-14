@@ -13,3 +13,7 @@
 ### How to run this project
 
 . parcel ./src/index.html
+
+### Go to browser: http://localhost: 1234
+![](retaining_wall_myFirst/images/browser_cube.png)
+

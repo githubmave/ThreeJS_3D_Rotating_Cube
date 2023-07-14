@@ -1,6 +1,6 @@
 ### Prerequisit:
 
-#### set up enviornment
+### set up enviornment
 
 . go to ThreeJS_3D_Rotating_Cube/ retaining_wall_myFirst
 
@@ -10,6 +10,6 @@
 
 . npm install Three
 
-#### How to run this project
+### How to run this project
 
 . parcel ./src/index.html
